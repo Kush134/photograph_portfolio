@@ -91,7 +91,7 @@ Version 1.4.5
 
 ## Authors
 
-* **Matthew Waldron** - (http://waldronmatthew.com)
+* *Kush bhargav sah** - (http://kushbhargav.xyz)
 
 ## License
 
